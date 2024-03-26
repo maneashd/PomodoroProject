@@ -13,7 +13,7 @@ LONG_BREAK_MIN = 20
 reps = 0
 timer = None
 
-#just for dev
+#just for dev1 plese follow up and let me know
 # ---------------------------- TIMER RESET ------------------------------- #
 
 def reset_timer():
